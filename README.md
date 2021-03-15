@@ -10,7 +10,7 @@ I'm Vitor Goncalves, 29 year old Software Engineer from Brazil and I'm focused o
 
 More about me:
 - :rocket: I’m currently working on [innovativetecnologia](https://github.com/innovativetecnologia)
-- :computer: I love programming in Kotlin, Go and Rust.
+- :computer: I love programming in Kotlin, Go and Rust
 - :school: I'm a Information Systems student in IFFAR (Instituto Federal de Educação Ciência e Tecnologia Farroupilha)
 - 💬 Ask me about anything [here](https://github.com/vitormbgoncalves/vitormbgoncalves/issues)
 <br/>
