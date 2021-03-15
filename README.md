@@ -17,7 +17,7 @@ More about me:
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Manjaro-20.2.1%20Nibia%20KDE-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=green" />
+  <img src="https://img.shields.io/badge/Manjaro-20.2.1%20Nibia%20KDE%20Plasma-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=green" />
   <img src="https://img.shields.io/badge/AMD-Ryzen%205%203400G-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-XPG%20D41%2016GB%203200MHz-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/SSD-XPG%20S41%20256GB%20M.2%203500MB/s-%230071C5.svg?&style=for-the-badge&logoColor=white" />
