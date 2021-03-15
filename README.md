@@ -13,7 +13,7 @@ More about me:
 - :computer: I love programming in Kotlin, Go and Rust.
 - :school: I'm a Information Systems student in IFFAR (Instituto Federal de Educação Ciência e Tecnologia Farroupilha)
 - 💬 Ask me about anything [here](https://github.com/vitormbgoncalves/vitormbgoncalves/issues)
-
+<br/>
 
 <p align='center'>
   💻 My workspace<br/><br/>
@@ -23,10 +23,14 @@ More about me:
   <img src="https://img.shields.io/badge/SSD-XPG%20S41%20256GB%20M.2%203500MB/s-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+<br/>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/vitormbgoncalves)](https://github.com/vitormbgoncalves)
+
+<br/>
 
 <details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormbgoncalves&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
+<br/>
