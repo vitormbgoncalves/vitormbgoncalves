@@ -1,34 +1,49 @@
-## Hello 👋
+<h2> Hi! I'm Vitor Goncalves! <img src="https://i.ibb.co/Rh9DB0v/1-8-Qqx0hv-UIa1-Tqjqu-Gm-MUg.gif" width="60"></h2>
 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/vitormbgoncalves)](https://t.me/vitormbgoncalves)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitormbgoncalves/)](https://www.linkedin.com/in/vitormbgoncalves/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/vitormbgoncalve)](https://www.twitter.com/vitormbgoncalve)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/vitormbgoncalves/)](https://www.instagram.com/vitormbgoncalves/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorgoncalvesmb135@gmail.com)](mailto:vitorgoncalvesmb135@gmail.com)
+<a href="https://t.me/vitormbgoncalves">
+  <img align="left" alt="Vitor's Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vitormbgoncalves/">
+  <img align="left" alt="Vitor's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.twitter.com/vitormbgoncalve">
+  <img align="left" alt="Vitor's Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/vitormbgoncalves/">
+  <img align="left" alt="Vitor's Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:vitorgoncalvesmb135@gmail.com">
+  <img align="left" alt="Vitor's Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-I'm Vitor Goncalves, 29 year old Software Engineer from Brazil and I'm focused on **Software Architecture**, **Backend** and **DevOps** engineering.
+<br>
+<br>
 
-More about me:
-- :rocket: I’m currently working on [innovativetecnologia](https://github.com/innovativetecnologia)
-- :computer: I love programming in Kotlin, Go and Rust
-- :school: I'm a Information Systems student in IFFAR (Instituto Federal de Educação Ciência e Tecnologia Farroupilha)
-- 💬 Ask me about anything [here](https://github.com/vitormbgoncalves/vitormbgoncalves/issues)
+```kotlin
+fun main() {
+    val vitor = Developer(
+        about = About(
+            name = "Vitor Goncalves",
+            skills = setOf("backend engineering", "software architecture", "DevOps"),
+            company = "Innovative",
+            university = "Instituto Federal de Educação Ciência e Tecnologia Farroupilha - IFFar",
+            goal = "develop technological solutions that generate improvements and impacts on people's lives",
+            love = setOf("clean architecture", "reactive programming", "TDD", "DDD"),
+        ),
+        programmingLanguages = setOf("Java", "JavaScript", "Kotlin", "Go"),
+        architecture = setOf("hexagonal", "microservices", "service mesh", "event-driven"),
+        tools = setOf("IntelliJ IDEA", "Testcontainers", "GitLab", "nix", "Kafka", "NATS", "Kong", "gRPC", "Kubernetes", "Keycloak"),
+        setup = Setup(os = "Manjaro Linux", processor = "ryzen 5 3400g", ram = "xpg d41 16gb", ssd = "xpg s41", gpu = "gtx 1050"),
+        infrastructure = setOf("AWS", "GCP", "CockroachDB", "MongoDB Atlas", "Confluent", "New Relic", "Auth0")
+    )
+
+    vitor.start()
+}
+```
+
+<h3>:zap: Languages Used<h3/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormbgoncalves&layout=compact&bg_color=343941&text_color=ffffff">
 <br/>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Manjaro-21.0.7%20Ornara%20KDE%20Plasma-%230078D6.svg?&style=for-the-badge&logo=manjaro&logoColor=green" />
-  <img src="https://img.shields.io/badge/AMD-Ryzen%205%203400G-%230071C5.svg?&style=for-the-badge&logo=amd&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-XPG%20D41%2016GB%203200MHz-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSD-XPG%20S41%20256GB%20M.2%203500MB/s-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201050-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
-</p>
-<br/>
-
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormbgoncalves&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
 <br/>
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/vitormbgoncalves)](https://github.com/vitormbgoncalves)
