@@ -1,4 +1,4 @@
-<h2> Hello, I am Vitor Goncalves! <img src="https://i.ibb.co/Rh9DB0v/1-8-Qqx0hv-UIa1-Tqjqu-Gm-MUg.gif" width="50"></h2>
+<h2> Hello, I am Vitor Gonçalves! <img src="https://i.ibb.co/Rh9DB0v/1-8-Qqx0hv-UIa1-Tqjqu-Gm-MUg.gif" width="50"></h2>
 
 <a href="https://t.me/vitormbgoncalves">
   <img align="left" alt="Vitor's Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&logo=telegram&logoColor=white" />
