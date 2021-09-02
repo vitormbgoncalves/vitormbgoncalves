@@ -1,19 +1,19 @@
-<h2> Hi! I'm Vitor Goncalves! <img src="https://i.ibb.co/Rh9DB0v/1-8-Qqx0hv-UIa1-Tqjqu-Gm-MUg.gif" width="60"></h2>
+<h2> Hello, I am Vitor Goncalves! <img src="https://i.ibb.co/Rh9DB0v/1-8-Qqx0hv-UIa1-Tqjqu-Gm-MUg.gif" width="50"></h2>
 
 <a href="https://t.me/vitormbgoncalves">
-  <img align="left" alt="Vitor's Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img align="left" alt="Vitor's Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=flat&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/vitormbgoncalves/">
-  <img align="left" alt="Vitor's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" alt="Vitor's LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.twitter.com/vitormbgoncalve">
-  <img align="left" alt="Vitor's Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <img align="left" alt="Vitor's Twitter" src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=flat&logo=twitter&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/vitormbgoncalves/">
-  <img align="left" alt="Vitor's Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="Vitor's Instagram" src="https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:vitorgoncalvesmb135@gmail.com">
-  <img align="left" alt="Vitor's Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img align="left" alt="Vitor's Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white" />
 </a>
 
 <br>
@@ -32,8 +32,8 @@ fun main() {
         ),
         programmingLanguages = setOf("Java", "JavaScript", "Kotlin", "Go"),
         architecture = setOf("hexagonal", "microservices", "service mesh", "event-driven"),
-        tools = setOf("IntelliJ", "Testcontainers", "GitLab", "nix", "Kafka", "NATS", "Kong", "gRPC", "Kubernetes", "Keycloak"),
-        setup = Setup(os = "Manjaro Linux", cpu = "ryzen 5 3400g", ram = "xpg d41", ssd = "xpg s41", gpu = "gtx 1050"),
+        tools = setOf("IntelliJ", "Testcontainers", "GitLab", "Kafka", "NATS", "Kong", "Kubernetes", "Keycloak")
+        setup = Setup(os = "Manjaro", cpu = "ryzen 5 3400g", ram = "xpg d41", ssd = "xpg s41", gpu = "gtx 1050")
         infrastructure = setOf("AWS", "GCP", "CockroachDB", "MongoDB Atlas", "Confluent", "New Relic", "Auth0")
     )
 
