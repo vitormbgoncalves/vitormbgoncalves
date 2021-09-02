@@ -32,8 +32,8 @@ fun main() {
         ),
         programmingLanguages = setOf("Java", "JavaScript", "Kotlin", "Go"),
         architecture = setOf("hexagonal", "microservices", "service mesh", "event-driven"),
-        tools = setOf("IntelliJ IDEA", "Testcontainers", "GitLab", "nix", "Kafka", "NATS", "Kong", "gRPC", "Kubernetes", "Keycloak"),
-        setup = Setup(os = "Manjaro Linux", processor = "ryzen 5 3400g", ram = "xpg d41 16gb", ssd = "xpg s41", gpu = "gtx 1050"),
+        tools = setOf("IntelliJ", "Testcontainers", "GitLab", "nix", "Kafka", "NATS", "Kong", "gRPC", "Kubernetes", "Keycloak"),
+        setup = Setup(os = "Manjaro Linux", cpu = "ryzen 5 3400g", ram = "xpg d41", ssd = "xpg s41", gpu = "gtx 1050"),
         infrastructure = setOf("AWS", "GCP", "CockroachDB", "MongoDB Atlas", "Confluent", "New Relic", "Auth0")
     )
 
