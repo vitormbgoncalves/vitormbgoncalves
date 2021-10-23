@@ -32,9 +32,9 @@ fun main() {
         ),
         programmingLanguages = setOf("Java", "JavaScript", "Kotlin"),
         architecture = setOf("hexagonal", "microservices", "service mesh", "event-driven"),
-        tools = setOf("IntelliJ", "Testcontainers", "GitLab", "Kafka", "NATS", "Kong", "Kubernetes", "Keycloak")
+        tools = setOf("IntelliJ", "Testcontainers", "GitLab", "Kafka", "Kong", "Kubernetes", "Keycloak")
         setup = Setup(os = "Manjaro", cpu = "ryzen 5 3400g", ram = "xpg d41", ssd = "xpg s41", gpu = "gtx 1050")
-        infrastructure = setOf("AWS", "GCP", "CockroachDB", "MongoDB Atlas", "Confluent", "New Relic", "Auth0")
+        infrastructure = setOf("AWS", "GCP", "CockroachDB", "MongoDB Atlas", "Confluent", "New Relic")
     )
 
     vitor.start()
