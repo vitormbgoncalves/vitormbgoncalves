@@ -25,12 +25,12 @@ fun main() {
         about = About(
             name = "Vitor Goncalves",
             skills = setOf("backend engineering", "software architecture", "DevOps"),
-            company = "Innovative",
+            company = "CI&T",
             university = "Instituto Federal de Educação Ciência e Tecnologia Farroupilha - IFFar",
             goal = "develop technological solutions that generate improvements and impacts on people's lives",
             love = setOf("clean architecture", "reactive programming", "TDD", "DDD"),
         ),
-        programmingLanguages = setOf("Java", "JavaScript", "Kotlin", "Go"),
+        programmingLanguages = setOf("Java", "JavaScript", "Kotlin"),
         architecture = setOf("hexagonal", "microservices", "service mesh", "event-driven"),
         tools = setOf("IntelliJ", "Testcontainers", "GitLab", "Kafka", "NATS", "Kong", "Kubernetes", "Keycloak")
         setup = Setup(os = "Manjaro", cpu = "ryzen 5 3400g", ram = "xpg d41", ssd = "xpg s41", gpu = "gtx 1050")
